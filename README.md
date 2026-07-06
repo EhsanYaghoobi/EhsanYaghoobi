@@ -3,7 +3,7 @@
 <h3>👨‍💻 About Me:</h3>
 
 - 🤔 &nbsp; I'm **Front-End Developer** and have been working for about a year.
-- 🎓 &nbsp; Currently pursuing a degree in Computer Science while continuously learning the latest technologies.
+- 🎓 &nbsp; Currently pursuing a degree in **Computer Science** while continuously learning the latest technologies.
 - 🧠 &nbsp; I'm learning **Nextjs**.
 - ⚡ &nbsp; I'm passionate about software development and enjoy solving challenging problems.
 
