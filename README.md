@@ -26,3 +26,10 @@
 
 ---
 
+<h3>🌐 Socials:</h3>
+
+<p align="center">
+  <a href="mailto:ehsan217yaghoubi@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94702044/189377332-6de4f1a9-d1b0-49d3-879d-bb1158674e84.png" alt="Ehsan Yaghoobi" height="36" width="36" /></a>
+  <a href="https://telegram.me/Ehsan217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/Telegram.svg" alt="Ehsan Yaghoobi" height="36" width="36" /></a>
+  <a href="https://www.instagram.com/ehsan.yaghoubii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Ehsan Yaghoobi" height="36" width="36" /></a>
+</p>
