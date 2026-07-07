@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm **Front-End Developer** and have been working for about a year.
 - 🎓 &nbsp; Currently pursuing a degree in **Computer Science** while continuously learning the latest technologies.
-- 🧠 &nbsp; I'm learning **Nextjs**.
+- 🧠 &nbsp; I'm learning **Nextjs** and **MongoDB**.
 - ⚡ &nbsp; I'm passionate about software development and enjoy solving challenging problems.
 
 ---
@@ -19,6 +19,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="36" height="36" alt="nextjs" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="36" height="36" alt="Mongodb" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" width="36" height="36" alt="Github" /></a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
